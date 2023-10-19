@@ -10,6 +10,7 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    gap: 50px;
 }
 
 .parent h1{
@@ -17,7 +18,12 @@
     font-size: 60px;
 }
 
-.parent p{
+.parent h2{
     font-size: 40px;
     color: cornflowerblue;
+}
+
+.parent p{
+    font-size: 30px;
+    color: brown;
 }
